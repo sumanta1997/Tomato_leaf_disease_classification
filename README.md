@@ -1,4 +1,5 @@
 # Tomato_leaf_disease_classification
+I've developed this deep learning project using TensorFlow and PyQt5 to detect various kinds to diseases of tomato plants from images of tomato leaves
 
 ![](https://github.com/sumanta1997/Tomato_leaf_disease_classification/blob/master/tomato.gif)
 
@@ -10,7 +11,7 @@ After potato and sweet potato, it is the crop which is cultivated worldwide.
 
 However, the quality and quantity of tomato crop goes down due to the various kinds of diseases.
 
-So, to detect the various diseases in Tomato plants I've developed this project .
+
 
 It can detect various diseases such as  Bacterial Spot ,Early Blight ,Late Blight .Yellow Leaf Curl Virus , Mosaic Virus from images of tomato leaves
  
