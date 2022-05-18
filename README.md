@@ -1,5 +1,7 @@
 # Tomato_leaf_disease_classification
 
+![](https://github.com/sumanta1997/Tomato_leaf_disease_classification/blob/master/tomato.gif)
+
 Tomato is the most popular crop in the world and in every kitchen, 
 
 It is found in different forms irrespective of the cuisine. 
